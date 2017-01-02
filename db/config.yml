@@ -1,0 +1,8 @@
+development:
+  adapter: sqlite3
+  database: db/chatbot.sqlite3
+  encoding: utf8
+test:
+  adapter: sqlite3
+  database: db/chatbot_test.sqlite3
+  encoding: utf8
